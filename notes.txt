@@ -1,0 +1,8 @@
+I think the output will print a 100 times with no spaces, then do the same for b and c. then print the statement after.
+
+the actual output is random ordering of the letters. it randomizes every time.
+
+when the program hits line A no threads have run yet
+after commenting out one thread, the output is still jumbled but with only 2 letters.
+the files that were there are core.xxxx files which are core dumps. these files hold the current state of the working memory while the program crashes. 
+
